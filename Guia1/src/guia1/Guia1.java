@@ -3,21 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaintro1;
+package guia1;
 
 /**
  *
  * @author max
  */
-public class JavaIntro1 {
+public class Guia1 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //"hola mundo"
-       System.out.println("Hola Mundo");
     }
     
 }
